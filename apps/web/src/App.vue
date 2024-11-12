@@ -1,6 +1,4 @@
-<script setup lang="ts">
-
-</script>
+<script setup lang="ts"></script>
 <template>
-  <div class="underline text-red-500">Hello World</div>
+    <div class="underline text-red-500">Hello World</div>
 </template>

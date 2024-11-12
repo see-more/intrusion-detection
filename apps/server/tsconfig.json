@@ -1,4 +1,4 @@
 {
-  "extends": "@repo/typescript-config/hono.json",
-  "include": ["src"]
+    "extends": "@repo/typescript-config/hono.json",
+    "include": ["src"]
 }
